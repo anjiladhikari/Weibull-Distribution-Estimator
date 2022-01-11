@@ -4,7 +4,7 @@ Function has been created for
 * Moment  method
 * Energy  method
 * Maximum likelihood method
-* Modified maximum likelihood method
+* Modified maximum likelihood method </br>
 Data of wind speed is collected from different palces of Nepal.
 
 Empirical  method yields: </br>
