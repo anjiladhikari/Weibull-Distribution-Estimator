@@ -5,6 +5,7 @@ Function has been created for
 * Energy  method
 * Maximum likelihood method
 * Modified maximum likelihood method
+Data of wind speed is collected from different palces of Nepal.
 
 Empirical  method yields: </br>
 shape parameter: 1.974, scale parameter: 7.897</br>
